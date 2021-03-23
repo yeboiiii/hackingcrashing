@@ -5,7 +5,7 @@
 
 I will happily except any help for this code
 
-Shoutout to BobbyESP for being the first major person to fork this. 👏
+Shoutout to BobbyESP for being the first major person to fork this. 👍;-)
 
 If something doesn't work, go discussions first please.
 
